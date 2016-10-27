@@ -7,7 +7,7 @@ Simple react component to show time from now , such as 1 minutes ago, 2 day ago.
 
 ##Usage
 
-`
+```
 import React from 'react';
 import ReactDom from "react-dom";
 
@@ -81,5 +81,4 @@ ReactDom.render(
   <Test />,
   document.getElementById('app-container')
 )
-
-`
+```
