@@ -3,7 +3,7 @@ Simple react component to show time from now , such as 1 minutes ago, 2 day ago.
 
 ##Install
 
-`npm install react-time-from-now` -S
+`npm install react-time-from-now -S`
 
 ##Usage
 
