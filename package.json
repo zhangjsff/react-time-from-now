@@ -1,0 +1,41 @@
+{
+  "name": "react-time-from-now",
+  "version": "1.0.0",
+  "description": "Simple react component to show time from now , such as 1 minutes ago, 2 day ago...",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjsff/react-time-from-now.git"
+  },
+  "keywords": [
+    "react",
+    "time",
+    "from",
+    "now"
+  ],
+  "author": "jiansong ZHANG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjsff/react-time-from-now/issues"
+  },
+  "homepage": "https://github.com/zhangjsff/react-time-from-now#readme",
+  "dependencies": {
+    "babel-core": "^6.18.0",
+    "date-format": "0.0.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-2": "^6.13.0",
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
